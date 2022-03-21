@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Comforter&family=Great+Vibes&family=Marck+Script&display=swap');
+
+
+body {
+  background: linear-gradient(to top, #0089B0, #fff, #73E0FF);
+  font-size: 20px;
+  font-weight: normal;
+}
+
+header {
+  text-align: center;
+  font-family: 'Great Vibes', 'Marck Script', cursive;
+}
+
+h2 {
+  text-align: center;
+}
+
+h4 {
+  text-align: left;
+}
+
+.Kartinka {
+    image-orientation: center;
+    max-width: 600px;
+    width: 80%;
+    border-radius: 59px;
+    box-shadow: 5px 5px 5px 05px;
+}
+
+.A {
+  text-align: center;
+  text-decoration: normal;
+  background: #998;
+  padding: 15px;
+  margin: 20px;
+  border: 7px #000;
+  border-radius: 15px;
+}
+
+.C {
+  text-align: center;
+  text-decoration: normal;
+  background: #FFD273;
+  padding: 15px;
+  margin: 20px;
+  border: 7px #000;
+  border-radius: 15px;
+}
+
+.D {
+  text-align: center;
+  text-decoration: normal;
+  background: #FF7A73;
+  padding: 15px;
+  margin: 20px;
+  border: 7px #000;
+  border-radius: 15px;
+}
+
+footer {
+  background: #3d3d3d;
+  color: #fff;
+  min-height: calc(10vh - 80px);
+  width: 100%;
+  text-align: center;
+  font-family: 'Bad Script', 'Comforter', 'Great Vibes', 'Marck Script', cursive;
+}
